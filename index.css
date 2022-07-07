@@ -1,4 +1,12 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    background-color: cyan;
+}
+
 h1 {
     color: pink;
     font-weight: 200;
 }
+
